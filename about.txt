@@ -1,0 +1,4 @@
+When virtual machine is up:
+
+- Load a page with a table stored in a postgreSQL
+database in the browser using http://localhost:8080/.
